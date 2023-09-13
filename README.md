@@ -1,4 +1,4 @@
-### 지난 2004년 USA Today '미국 올해의 표현'으로 선정된 문장으로 직역하면 '원래 그게 그렇다'는 뜻. '어차피 일어난 일이고 바꿀 수 없는 상황인데 받아들이자' 라는 긍정적인 뉘앙스와 '어차피 안 바뀔 텐데 어쩌겠냐' 라는 체념의 뉘앙스 모두로 사용할 수 있는 표현이다.👋
+### It is what it is : (어차피 일어난 일에 대해) 어쩔 수 없지👋
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=it%20is%20what%20it%20is%20sss&fontSize=90)
 
 <!--
