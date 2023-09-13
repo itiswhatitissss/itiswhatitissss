@@ -27,19 +27,16 @@ Here are some ideas to get you started:
 
 ---
 
-### :woman_technologist: About Me :
+### 👨_technologist: About Me :
 
 안녕하세요, 이성진입니다.
 
 저는 고려대학교 세종캠퍼스에서 글로벌경영학과와 빅데이터사이언스를 이중전공하였습니다.
 
-빅데이터사이언스학부 재학 중에는 파이썬을 중심으로 딥러닝과 머신러닝을 공부했습니다.
+빅데이터사이언스학부 재학 중에는 파이썬으로 딥러닝과 머신러닝을 공부했습니다.
 
-현재는 자바를 기반으로  백엔드 웹개발을 공부중입니다.
+현재는 자바를 공부중이며, 스프링을 기반으로 한 백엔드 웹개발에 큰 관심이 있습니다.
 
-<img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Html-4B4B77?style=flat&logo=Html&logoColor=white"/>
-<img src="https://img.shields.io/badge/Css-4B4B77?style=flat&logo=Css&logoColor=white"/>
 
 
 
