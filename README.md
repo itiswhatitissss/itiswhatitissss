@@ -13,3 +13,53 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<div id="badges" align="center">
+  <a href="https://blog.naver.com/yeeun_noh">
+    <img src="https://img.shields.io/badge/My Blog-black?style=for-the-badge&logo=blogger&logoColor=white" alt="blog Badge"/>
+  </a>
+  <img src="https://img.shields.io/badge/pkmm1008@naver.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=your-github-itiswhatitissss&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+---
+
+### :woman_technologist: About Me :
+
+안녕하세요, 이성진입니다.
+
+저는 고려대학교 세종캠퍼스에서 글로벌경영학과와 빅데이터사이언스를 이중전공하였습니다.
+
+빅데이터사이언스학부 재학 중에는 파이썬을 중심으로 딥러닝과 머신러닝을 공부했습니다.
+
+현재는 자바를 기반으로  백엔드 웹개발을 공부중입니다.
+
+<img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html-4B4B77?style=flat&logo=Html&logoColor=white"/>
+<img src="https://img.shields.io/badge/Css-4B4B77?style=flat&logo=Css&logoColor=white"/>
+
+
+
+---
+
+### :hammer_and_wrench: Tech Skills and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun-noh&layout=compact)](https://github.com/itiswhatitissss/github-readme-stats)
