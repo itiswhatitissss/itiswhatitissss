@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 👨_technologist: About Me :
+### 🏋️‍♂️_technologist: About Me :
 
 안녕하세요, 이성진입니다.
 
