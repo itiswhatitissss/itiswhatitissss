@@ -1,4 +1,4 @@
-### It is what it is : (어차피 일어난 일에 대해) 어쩔 수 없지👋
+### See you at work👋
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=it%20is%20what%20it%20is%20sss&fontSize=90)
 
 <!--
